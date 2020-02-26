@@ -1,12 +1,13 @@
 Assets/Animators/
 Assets/Audio/
 Assets/Effects/
-Assets/Materials/
 Assets/PolygonPrototype/
 Assets/Prefabs/
-Assets/Scenes/
 Assets/TextMesh Pro/
 Library/
-obj/
 ProjectSettings/
-.vs/
+obj/Debug/Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+obj/
+Assets/Materials/
+
+
